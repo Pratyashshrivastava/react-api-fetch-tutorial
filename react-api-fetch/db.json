@@ -1,0 +1,29 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "name":"kush",
+            "email": "kush@gamil.com"
+        },
+        {
+            "id": 2,
+            "name":"kush",
+            "email": "kush@gamil.com"
+        },
+        {
+            "id": 3,
+            "name":"kush",
+            "email": "kush@gamil.com"
+        },
+        {
+            "id": 4,
+            "name":"kush",
+            "email": "kush@gamil.com"
+        },
+        {
+            "id": 5,
+            "name":"kush",
+            "email": "kush@gamil.com"
+        }
+    ]
+}
